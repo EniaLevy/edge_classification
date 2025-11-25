@@ -15,7 +15,6 @@ venv/
 
 # Outputs
 output/
-*.png
 *.jpg
 
 # OS files

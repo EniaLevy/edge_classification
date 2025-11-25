@@ -22,7 +22,7 @@ The project is split into multiple modules:
 python main.py
 
 Input images must be placed inside: selected/
-BY DEFAULT, ONLY .jpg IMAGES ARE PROCESSED. This can be modified by changing 'selected/*.jpg' to the desired extension.
+BY DEFAULT, ONLY .png IMAGES ARE PROCESSED. This can be modified by changing 'selected/*.png' to the desired extension.
 
 Results will be saved into: output/
 
